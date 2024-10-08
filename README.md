@@ -18,7 +18,26 @@ Built on top of sklearn's models.
 > 3. Scale
 
 ## Dependancies:
-
+> import pandas as pd
+> import numpy as np
+> from sklearn.model_selection import train_test_split
+> from sklearn.preprocessing import OneHotEncoder, StandardScaler
+> from sklearn.compose import ColumnTransformer
+> from sklearn.pipeline import Pipeline
+> from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+> from sklearn.linear_model import LogisticRegression
+> from sklearn.svm import SVC
+> from sklearn.neighbors import KNeighborsClassifier
+> from sklearn.tree import DecisionTreeClassifier, plot_tree
+> from sklearn.ensemble import (
+    RandomForestClassifier,
+    ExtraTreesClassifier,
+    GradientBoostingClassifier,
+    AdaBoostClassifier,
+)
+> import matplotlib.pyplot as plt
+> import seaborn as sns
+> from sklearn.model_selection import GridSearchCV
 
 ## Usage:
 
