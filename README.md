@@ -18,7 +18,9 @@ Built on top of sklearn's models.
 > 3. Scale
 
 ## Dependancies:
-> import pandas as pd
+
+```
+> import pandas as pd\r
 > import numpy as np
 > from sklearn.model_selection import train_test_split
 > from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -38,6 +40,7 @@ Built on top of sklearn's models.
 > import matplotlib.pyplot as plt
 > import seaborn as sns
 > from sklearn.model_selection import GridSearchCV
+```
 
 ## Usage:
 
