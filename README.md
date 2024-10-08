@@ -45,7 +45,10 @@ from sklearn.model_selection import GridSearchCV
 ## Usage:
 
 Importing the modules from the package
->from plumber import mlpipe, mlht
+
+```
+from plumber import mlpipe, mlht
+```
 
 ### CMC (pre hyperparameter tuning)
 Instantiating the CMC
