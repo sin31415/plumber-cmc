@@ -100,3 +100,8 @@ Get the tuned model for deployment
 ```
 tm = ht.tuned_model
 ```
+
+
+## More functionalities coming:
+1. Dataset balancing
+2. Cross Validation control
