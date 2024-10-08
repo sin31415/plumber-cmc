@@ -1,4 +1,10 @@
 # This project is a Competitive Model Comparison(CMC)
+
+contributors: <br>
+[Maharath Sinha](https://github.com/sin31415) <br>
+[George-Aristides](https://github.com/george-aristides) <br>
+[AlexandraShim](https://github.com/alexandrashim)
+
 Built on top of sklearn's models.
 
 ## Models:
