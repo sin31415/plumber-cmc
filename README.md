@@ -1,4 +1,5 @@
 # This project is a Competitive Model Comparison(CMC)
+Built on top of sklearn's models.
 
 ## Models:
 > 1. Logistic Regression
@@ -15,7 +16,9 @@
 > 1. Drop nulls
 > 2. Encode
 > 3. Scale
->
+
+## Dependancies:
+
 
 ## Usage:
 
